@@ -1,0 +1,7 @@
+menu.wav (Overture - Stardew Valley): nhạc nền menu
+game.wav (Pelican Town - Stardrew Valley): nhạc nền game
+oof.wav: sfx lúc bị xe tông
+playagain.wav (amogus remix): you know what it is :)))
+start_up.wav (easy mode): sfx lúc chọn chế độ dễ
+turn_up.wav (normal mode): sfx lúc chọn chế độ thường
+clock_up.wav (hard mode): sfx lúc chọn chế độ khó
